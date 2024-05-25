@@ -20,7 +20,7 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
 
 ## Projects
-### HD maps dynamic and long-term updating methods and interaction mechanism @ TJU(_Nov 2021-present_)
+### HD maps dynamic and long-term updating methods and interaction mechanism @ [TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-present_)
 
 - The National Key R&D Program of China leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
@@ -28,7 +28,7 @@ Based the High-Definition map model proposed in this project, my research on stu
 
 
 
-### Solving vehicle routing problems based on deep reinforcement learning @NJAU(_Sep 2020-May 2021_)
+### Solving vehicle routing problems based on deep reinforcement learning @[NJAU](https://english.njau.edu.cn/)(_Sep 2020-May 2021_)
 
 - Undergraduate Thesis Research Plan advised by Assoc. Prof. Yang Liu
 
