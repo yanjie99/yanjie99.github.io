@@ -40,10 +40,10 @@ Based on existing trained **deep learning** model to solve the route planning pr
 2. Chun L., Wei H., **Yanjie Z.** and etc. Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving(2024). Chinese Society for Geodesy Photogrammetry and Cartography.[Download](https://www.csgpc.org/detail/23300.html)
 3. **Yanjie Z.**, Wei H. An Approach of High Definition Map Information Interaction(2023). Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 861–866. [Download](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-861-2023)
 
-## Services
-- Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023
-
 ## Oral Presentations
 - A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, May 10 2023
 - An oral presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps 4, September 4 2023
 ![carioyj](/assets/img/Carioyj.jpg)
+
+## Services
+- Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023
