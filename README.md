@@ -4,14 +4,10 @@
 
 ## Summary
 ### Research Interests
-- Human Mobility
-- High-Definition Map
-- Autonomous Driving
+Human Mobility, High-Definition Map, Autonomous Driving, Smart City
 
 ### Highlight
-Cross-disciplinary background 
-- Transportation Engineering
-- Geographic Information
+Cross-disciplinary background (Transportation Engineering, Geographic Information)
 
 ### Relevant Courses
 Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel Behavior Analysis, Transportation Planning and Design, C Language programming, Data Mining
