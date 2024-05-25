@@ -12,6 +12,7 @@
 Cross-disciplinary background 
 - Transportation Engineering
 - Geographic Information
+
 ### Relevant Courses
 Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel Behavior Analysis, Transportation Planning and Design, C Language programming, Data Mining
 
