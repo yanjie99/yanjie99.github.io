@@ -1,11 +1,7 @@
 title: Yanjie Zhang
 logo: /assets/img/zyj.jpg
 description: Master Student of Urban Mobility Institute, Tongji University
+email: "2131371@tongji.edu.cn"
+address: "1239 Siping Rd, Shanghai, CHN"
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-author:
-  name: "Yanjie Zhang"
-  email: "2131371@tongji.edu.cn"
-  github: "yanjie99"
-  address: "1239 Siping Rd, Shanghai, CHN"
