@@ -21,18 +21,18 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
 
 ## Projects
-### HD maps dynamic and long-term updating methods and interaction mechanism @ [TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-present_)
+### HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-present_)
 
-- The National Key R&D Program of China leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
+ The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
 In this project, we proposed a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We designed a comprehensive content structure and data exchange format for the dynamic information of HD map and developed a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we proposed interactive methods for dynamic information interaction between vehicle and HD map information cloud. The [Results](https://kns.cnki.net/kcms/detail/42.1676.TN.20230717.2031.001.html) were published in the Journal of Geomatics and Information Science of Wuhan University.
 ![alt text](/assets/img/Project1.png)
 
 
 
-### Solving vehicle routing problems based on deep reinforcement learning @[NJAU](https://english.njau.edu.cn/)(_Sep 2020-May 2021_)
+### Solving Vehicle Routing Problems Using Deep Reinforcement Learning@[NJAU](https://english.njau.edu.cn/)(_Sep 2020-May 2021_)
 
-- Undergraduate Thesis Research Plan advised by [Assoc. Prof. Yang Liu](https://ai.njau.edu.cn/info/1062/1179.htm)
+Undergraduate Thesis Research Plan Advised by [Assoc. Prof. Yang Liu](https://ai.njau.edu.cn/info/1062/1179.htm)
 
 We utilized a trained deep learning model to address the **Route Planning** problem, specifically focusing on how to efficiently plan delivery paths for vehicles with capacity constraints. Our enhanced algorithm was applied to vehicle path planning scenarios with 20, 50, and 100 nodes, respectively. The results indicated that trucks tend to prioritize nodes that are farther from the warehouse during the middle stages of the journey. Aside from the final route, which must cover the remaining nodes, the algorithm ensures that each route maximizes the number of visited nodes.
 ![alt text](/assets/img/Project2.png)
@@ -44,7 +44,7 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 
 ## Oral Presentations
 - A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, May 10 2023
-- An oral presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps 4, September 4 2023
+- An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps 4, September 4 2023
 ![carioyj](/assets/img/Carioyj.jpg)
 
 ## Services
