@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, SQL, RoadRunner
 
 ## Summary
-(Note:（兴趣和技能和导师研究方向贴合）)
+
 ### Research Interests
 Human Mobility, High-Definition Map, Autonomous Driving, Smart City
 
