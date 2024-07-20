@@ -48,8 +48,8 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 ![alt text](/assets/img/Project2.png)
 
 ## Publications
-1. **Yanjie Z.**, Wei H., Xintao Liu., Fengyuan Z., Hangbin W., Shen Y. and Chun L. An Approach for High Definition (HD) Maps Information Interaction for Autonomous Driving(2024). Geomatics and Information Science of Wuhan University. DOI:10.13203/j.whugis20230166.[![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166)
-2. Chun L., Wei H., **Yanjie Z.** and etc. Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving(2024). Chinese Society for Geodesy Photogrammetry and Cartography.[![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0
+1. **Yanjie Z.**, Wei H., Xintao Liu., Fengyuan Z., Hangbin W., Shen Y. and Chun L. An Approach for High Definition (HD) Maps Information Interaction for Autonomous Driving(2024). Geomatics and Information Science of Wuhan University. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166)
+2. Chun L., Wei H., **Yanjie Z.** and etc. Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving(2024). Chinese Society for Geodesy Photogrammetry and Cartography. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0
 )](https://www.csgpc.org/detail/23300.html)
 3. **Yanjie Z.**, Wei H. An Approach of High Definition Map Information Interaction(2023). Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 861–866. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0
 )](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-861-2023)
