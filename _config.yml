@@ -6,17 +6,19 @@ theme: jekyll-theme-minimal
 # Personal Information
 author:
   name: Yanjie Zhang
-  email: yj2021@tongji.edu.cn
+  email1: yj2021@tongji.edu.cn
+  email2: yj2yx@outlook.com
   github: yanjie99
   orcid: 0009-0002-3627-1104
-  youtube: @YanjieZhang-2024
+  youtube: UC24X9atI5X7HcUABcMccJ-Q
 
 # Social Links
 social:
-  email: yj2yx@outlook.com
+  email1: yj2021@tongji.edu.cn
+  email2: yj2yx@outlook.com
   github: https://github.com/yanjie99
   orcid: https://orcid.org/0009-0002-3627-1104
-  youtube: https://www.youtube.com/channel/@YanjieZhang-2024
+  youtube: https://www.youtube.com/channel/UC24X9atI5X7HcUABcMccJ-Q  # 替换为你的 YouTube 频道 ID
 
 # Plugins
 plugins:
