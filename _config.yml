@@ -1,5 +1,27 @@
 title: Yanjie Zhang
 logo: /assets/img/zyj.jpg
 description: Master Student of Urban Mobility Institute, Tongji University
-#show_downloads: true
 theme: jekyll-theme-minimal
+
+# Personal Information
+author:
+  name: Yanjie Zhang
+  email: yj2021@tongji.edu.cn
+  github: yanjie99
+  orcid: 0009-0002-3627-1104
+  youtube: @YanjieZhang-2024
+
+# Social Links
+social:
+  email: yj2yx@outlook.com
+  github: https://github.com/yanjie99
+  orcid: https://orcid.org/0009-0002-3627-1104
+  youtube: https://www.youtube.com/channel/@YanjieZhang-2024
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Custom Variables
+custom_variable: My custom value
