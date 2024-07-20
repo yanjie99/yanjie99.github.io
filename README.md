@@ -1,12 +1,12 @@
 # Yanjie Zhang 
-[![email](https://img.shields.io/badge/Email%20.edu-white?logo=gmail&logoColor=%23EA4335
-)](yj2021@tongji.edu.cn)
-[![email](https://img.shields.io/badge/Email%20.outlook-white?logo=gmail&logoColor=%23EA4335
-)](yj2yx@outlook.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
+[![yj2021@tongji.edu.cn](https://img.shields.io/badge/Email%20.edu-white?logo=gmail&logoColor=%23EA4335
+)](mailto:yj2021@tongji.edu.cn)
+[![yj2yx@outlook.com](https://img.shields.io/badge/Email%20.outlook-white?logo=gmail&logoColor=%23EA4335
+)](mailto:yj2yx@outlook.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
 )](https://github.com/yanjie99) [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid&logoColor=%23A6CE39
 )](https://orcid.org/0009-0002-3627-1104)
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
-)](https://www.youtube.com/channel/UC1234567890abcdef)
+)](https://www.youtube.com/@YanjieZhang-2024)
 
 ### Technical Skills: Python, MATLAB, SQL, RoadRunner
 
