@@ -14,18 +14,18 @@
 ## Summary
 
 ### Research Interests
-Human Mobility, High-Definition Map, Autonomous Driving, Smart City
+High Definition Map, Autonomous Driving, Human Mobility, Smart City
 
 ### Highlight
-Cross-disciplinary background (Transportation Engineering, Geographic Information)
+Cross-disciplinary background (Transportation Engineering, Geo-Informatics)
 
 ### Relevant Courses
 Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel Behavior Analysis, Transportation Planning and Design, C Language programming, Data Mining
 
 
 ## Education								       		
-- M.S., Transportation Engineering | The University of Tongji at Shanghai (_2021-2024_)	 			        		
-- B.S., Transportation Engineering | The University of Nanjing Agricultural at Nanjing (_2017-2021_)
+- M.S., Urban Mobility (Interdisciplinary), Tongji University, Shanghai, China.(_2021-2024_)	 			        		
+- B.S., Transportation Engineering, Nanjing Agricultural University, Nanjing, China.(_2017-2021_)
 
 
 
@@ -34,9 +34,10 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
-In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166) has already been published in the Journal of Geomatics and Information Science of Wuhan University. Currently, our newest research is coming. [![**Click to view the latest process!**](https://img.shields.io/badge/click-latest%20research-brightgreen?logoColor=%2300AEF0
-)](https://github.com/yanjie99/HDMapII)
+In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166) has already been published in the Journal of Geomatics and Information Science of Wuhan University.
 ![alt text](/assets/img/Project1.png)
+Currently, our newest research is coming. [![**Click to view the latest process!**](https://img.shields.io/badge/click-latest%20research-brightgreen?logoColor=%2300AEF0
+)](https://github.com/yanjie99/HDMapII)
 
 
 
