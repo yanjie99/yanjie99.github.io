@@ -25,7 +25,8 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
-In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](https://kns.cnki.net/kcms/detail/42.1676.TN.20230717.2031.001.html) has already been published in the Journal of Geomatics and Information Science of Wuhan University. Currently, our newest research is coming.[Click to view the latest process!](https://github.com/yanjie99/HDMapII)
+In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](https://kns.cnki.net/kcms/detail/42.1676.TN.20230717.2031.001.html) has already been published in the Journal of Geomatics and Information Science of Wuhan University. Currently, our newest research is coming. [![Click to view the latest process!](https://img.shields.io/badge/click-latest%20research-brightgreen?logoColor=%2300AEF0
+)](https://github.com/yanjie99/HDMapII)
 ![alt text](/assets/img/Project1.png)
 
 
