@@ -1,8 +1,8 @@
 # Yanjie Zhang 
 [![yj2021@tongji.edu.cn](https://img.shields.io/badge/Email%20.edu-white?logo=gmail&logoColor=%23EA4335
 )](mailto:yj2021@tongji.edu.cn)
-[![yj2yx@outlook.com](https://img.shields.io/badge/Email%20.outlook-white?logo=gmail&logoColor=%23EA4335
-)](mailto:yj2yx@outlook.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
+[![18860966069@163.com](https://img.shields.io/badge/Email%20.outlook-white?logo=gmail&logoColor=%23EA4335
+)](mailto:18860966069@163.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
 )](https://github.com/yanjie99) [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid&logoColor=%23A6CE39
 )](https://orcid.org/0009-0002-3627-1104)
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
@@ -55,9 +55,9 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 )](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-861-2023)
 
 ## Oral Presentations
-- A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, May 10 2023
-- An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps 4, September 4 2023
+- A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, 10 May, 2023.
+- An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, 4 September, 2023.
 ![carioyj](/assets/img/Carioyj.jpg)
 
 ## Services
-- Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023
+- Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
