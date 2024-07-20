@@ -25,7 +25,7 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
-In this project, we proposed a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We designed a comprehensive content structure and data exchange format for the dynamic information of HD map and developed a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we proposed interactive methods for dynamic information interaction between vehicle and HD map information cloud. The [Results](https://kns.cnki.net/kcms/detail/42.1676.TN.20230717.2031.001.html) were published in the Journal of Geomatics and Information Science of Wuhan University. [Click to view latest research process!](https://github.com/yanjie99/HDMapII)
+In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](https://kns.cnki.net/kcms/detail/42.1676.TN.20230717.2031.001.html) has already been published in the Journal of Geomatics and Information Science of Wuhan University. Currently, our newest research is coming.[Click to view the latest process!](https://github.com/yanjie99/HDMapII)
 ![alt text](/assets/img/Project1.png)
 
 
@@ -34,7 +34,7 @@ In this project, we proposed a **High-Definition Map** (HD Map) model, focusing 
 
 Undergraduate Thesis Research Plan Advised by [Assoc. Prof. Yang Liu](https://ai.njau.edu.cn/info/1062/1179.htm)
 
-We utilized a trained deep learning model to address the **Route Planning** problem, specifically focusing on how to efficiently plan delivery paths for vehicles with capacity constraints. Our enhanced algorithm was applied to vehicle path planning scenarios with 20, 50, and 100 nodes, respectively. The results indicated that trucks tend to prioritize nodes that are farther from the warehouse during the middle stages of the journey. Aside from the final route, which must cover the remaining nodes, the algorithm ensures that each route maximizes the number of visited nodes.
+We utilized a trained deep learning model to address the **Route Planning** problem, specifically focusing on how to efficiently plan delivery paths for vehicles with capacity constraints. Our enhanced algorithm is applied to vehicle path planning scenarios with 20, 50, and 100 nodes, respectively. The result indicates that trucks tend to prioritize nodes that are farther from the warehouse during the middle stages of the journey. Aside from the final route, which must cover the remaining nodes, the algorithm ensures that each route maximizes the number of visited nodes.
 ![alt text](/assets/img/Project2.png)
 
 ## Publications
