@@ -1,8 +1,8 @@
 # Yanjie Zhang 
-[![yj2021@tongji.edu.cn](https://img.shields.io/badge/Email%20.edu-white?logo=gmail&logoColor=%23EA4335
+[![yj2021@tongji.edu.cn](https://img.shields.io/badge/Email%20%40edu-white?logo=gmail&logoColor=%23EA4335
 )](mailto:yj2021@tongji.edu.cn)
-[![18860966069@163.com](https://img.shields.io/badge/Email%20.outlook-white?logo=gmail&logoColor=%23EA4335
-)](mailto:18860966069@163.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
+[![18860966069@163.com](https://img.shields.io/badge/Email%20%40outlook-white?logo=gmail&logoColor=%23EA4335
+)](mailto:yj2yx@outlook.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
 )](https://github.com/yanjie99) [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid&logoColor=%23A6CE39
 )](https://orcid.org/0009-0002-3627-1104)
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
@@ -36,7 +36,7 @@ Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel 
 
 In this project, we propose a **High-Definition Map** (HD Map) model, focusing on the dynamic information of HD map and its exchange format. We design a comprehensive content structure and data exchange format for the dynamic information of HD map and develop a [Group Standard](https://www.csgpc.org/detail/23300.html). Additionally, we propose an information interaction approach to be used between autonomous vehicles and high definition map for broadcasting and receiving dynamic information. The [The phased research result](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166) has already been published in the Journal of Geomatics and Information Science of Wuhan University.
 ![alt text](/assets/img/Project1.png)
-Currently, our newest research is coming. [![**Click to view the latest process!**](https://img.shields.io/badge/click-latest%20research-brightgreen?logoColor=%2300AEF0
+Currently, our newest research is coming. [![**Click to view the latest process!**](https://img.shields.io/badge/Click-Latest%20Research-brightgreen?logo=cliqz&logoColor=%2300AEF0
 )](https://github.com/yanjie99/HDMapII)
 
 
