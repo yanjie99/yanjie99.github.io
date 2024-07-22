@@ -1,0 +1,5 @@
+downloads:
+  - name: File1
+    url: https://arxiv.org/pdf/2206.05731
+  - name: File2
+    url: /assets/files/file2.pdf
