@@ -66,23 +66,4 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 - Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cjcIbwVZHF1YxSrvScUY1USs5bajX83Qnp9slKFlT6g&cl=ffffff&w=a"></script>
-
-<script>
-  // Function to fetch the data
-  function updateVisitCount() {
-    // Assuming the ClustrMap API provides a JSON response with the visit count
-    fetch('https://clustrmaps.com/site/1c0va') // Replace with the actual API URL
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('visit-count').textContent = data.visit_count; // Replace 'visit_count' with the actual key from the API response
-      })
-      .catch(error => console.error('Error fetching visit count:', error));
-  }
-
-  // Call the function to update the count
-  updateVisitCount();
-</script>
-
-<p>This page has been accessed at least <span id="visit-count"></span> times since Aug 16, 2024.</p>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=cjcIbwVZHF1YxSrvScUY1USs5bajX83Qnp9slKFlT6g'></script>
