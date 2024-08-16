@@ -65,20 +65,22 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 ## Services
 - Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
 
+<p>This page has been accessed at least <span id="visit-count">XXX</span> times since Aug 16, 2024.</p>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cjcIbwVZHF1YxSrvScUY1USs5bajX83Qnp9slKFlT6g&cl=ffffff&w=a"></script>
 
-<div id="map" style="width: 600px; height: 400px;"></div>
-
 <script>
-var map = L.map('map').setView([51.505, -0.09], 13);
+  // Function to fetch the data
+  function updateVisitCount() {
+    // Assuming the ClustrMap API provides a JSON response with the visit count
+    fetch('https://clustrmaps.com/api_endpoint_for_your_site') // Replace with the actual API URL
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('visit-count').textContent = data.visit_count; // Replace 'visit_count' with the actual key from the API response
+      })
+      .catch(error => console.error('Error fetching visit count:', error));
+  }
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-
-L.marker([51.5, -0.09]).addTo(map)
-    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-    .openPopup();
+  // Call the function to update the count
+  updateVisitCount();
 </script>
-
-
