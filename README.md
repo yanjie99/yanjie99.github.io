@@ -65,7 +65,7 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 ## Services
 - Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
 
-<p>This page has been accessed at least <span id="visit-count">XXX</span> times since Aug 16, 2024.</p>
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cjcIbwVZHF1YxSrvScUY1USs5bajX83Qnp9slKFlT6g&cl=ffffff&w=a"></script>
 
@@ -84,3 +84,5 @@ We utilized a trained deep learning model to address the **Route Planning** prob
   // Call the function to update the count
   updateVisitCount();
 </script>
+
+<p>This page has been accessed at least <span id="visit-count">XXX</span> times since Aug 16, 2024.</p>
