@@ -73,7 +73,7 @@ We utilized a trained deep learning model to address the **Route Planning** prob
   // Function to fetch the data
   function updateVisitCount() {
     // Assuming the ClustrMap API provides a JSON response with the visit count
-    fetch('https://clustrmaps.com/api_endpoint_for_your_site') // Replace with the actual API URL
+    fetch('https://clustrmaps.com/site/1c0va') // Replace with the actual API URL
       .then(response => response.json())
       .then(data => {
         document.getElementById('visit-count').textContent = data.visit_count; // Replace 'visit_count' with the actual key from the API response
