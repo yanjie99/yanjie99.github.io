@@ -85,4 +85,4 @@ We utilized a trained deep learning model to address the **Route Planning** prob
   updateVisitCount();
 </script>
 
-<p>This page has been accessed at least <span id="visit-count">XXX</span> times since Aug 16, 2024.</p>
+<p>This page has been accessed at least <span id="visit-count"></span> times since Aug 16, 2024.</p>
