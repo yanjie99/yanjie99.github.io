@@ -58,8 +58,8 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 )](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-861-2023)
 
 ## Oral Presentations
-- A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, 10 May, 2023.
-- An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, 4 September, 2023.
+1. A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, 10 May, 2023.
+2. An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, 4 September, 2023.
 ![carioyj](/assets/img/Carioyj.jpg)
 
 ## Services
