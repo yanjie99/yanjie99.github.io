@@ -34,7 +34,7 @@ How can the proposed methods for accuracy, reliability, and scalability in vario
 
 
 ## News
-- 2024.9: Graduated from **Tongji University** and received the M.Sc. in Transportation Engineering.								       		
+- 2024.9: 👏 Graduated from **Tongji University** and received the M.Sc. in Transportation Engineering.								       		
 
 
 ## Projects
