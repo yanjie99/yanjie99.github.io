@@ -12,14 +12,14 @@
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
 )](https://www.youtube.com/@YanjieZhang-2024)
 
-## Background
+## 👨‍🎓 Background
 I am currently in the third year year at [Tongji University](https://en.tongji.edu.cn/p/#/), pursuing a Master of Science in Urban Mobility within the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm). [*Sep,2021-Sep,2024*]
 
 Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my Bachelor's degree of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis. [*Sep,2017-Jul,2021*]
 
 At TJU, the Urban Mobility Institute is an interdisciplinary institute. With my background in Transportation, and under the guidance of several professors from the [College of Surveying and Geo-informatics](https://celiang.tongji.edu.cn/english/Home.htm) at Tongji University and the [School of Resource and Environmental Sciences](https://sres.whu.edu.cn/English/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), I was responsible for tackling and completing key research components of a critical R&D project. This experience led me to shift my focus to the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction.
 
-## Research Interest
+## 💡Research Interest
 My research enthusiasm lies in applying AI to grounded tasks. My primary goal is to develop methods for efficiently extracting key information from crowdsourced big data to serve urban science. To achieve this goal, I identified three main challenges:
 
 #### Challenge 1 Multi-element Extraction
@@ -33,11 +33,11 @@ How can the proposed methods for accuracy, reliability, and scalability in vario
 
 
 
-## News
+## 📰 News
 - 2024.9: 👏 Graduated from **Tongji University** and received the M.Sc. in Transportation Engineering.								       		
 
 
-## Projects
+## 🔬 Projects
 ### HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-Aug 2024_)
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
@@ -56,19 +56,19 @@ Undergraduate Thesis Research Plan Advised by [Assoc. Prof. Yang Liu](https://ai
 We utilized a trained deep learning model to address the **Route Planning** problem, specifically focusing on how to efficiently plan delivery paths for vehicles with capacity constraints. Our enhanced algorithm is applied to vehicle path planning scenarios with 20, 50, and 100 nodes, respectively. The result indicates that trucks tend to prioritize nodes that are farther from the warehouse during the middle stages of the journey. Aside from the final route, which must cover the remaining nodes, the algorithm ensures that each route maximizes the number of visited nodes.
 ![alt text](/assets/img/Project2.png)
 
-## Publications
+## 📑 Publications
 1. **Zhang, Y.J.**, Huang, W., Liu, X.T., Zhang, F.Y., Wu, H.B., Ying, S., Liu, C. (2024). An Approach for High Definition (HD) Maps Information Interaction for Autonomous Driving. Geomatics and Information Science of Wuhan University. 49(4): 662-671. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166)
 2. Liu, C., Huang, W., **Zhang, Y.J.**, et al. (2024). Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving. Chinese Society for Geodesy Photogrammetry and Cartography. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0
 )](https://www.csgpc.org/detail/23300.html)
 1. **Zhang, Y.J.**, Huang, W. (2023). An Approach of High Definition Map Information Interaction. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 861–866. [![Download](https://img.shields.io/badge/Source-Download-blue?logoColor=%2300AEF0
 )](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-861-2023)
 
-## Oral Presentations
+## 🗣️ Oral Presentations
 1. A Brief Introduction to High Definition Map - 2<sup>nd</sup> Tongji & Hannover Seminar, 10 May, 2023.
 2. An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, 4 September, 2023.
 ![carioyj](/assets/img/Carioyj.jpg)
 
-## Services
+## 👨‍🏫 Services
 - Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
 
 
