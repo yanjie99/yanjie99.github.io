@@ -1,38 +1,44 @@
 # Yanjie Zhang [![](https://img.shields.io/badge/-%23054258?logo=livejournal&logoColor=%2300B0EA)](https://ext-6592581.livejournal.com/841.html)
 
+[![cv](https://img.shields.io/badge/CV-orange?logo=Read.cv&logoColor=%23111111
+)](https://yanjie99.github.io/Papers/CV%2C%20Yanjie%20Zhang.pdf)
 
 [![yj2021@tongji.edu.cn](https://img.shields.io/badge/Email%20%40edu-white?logo=gmail&logoColor=%23EA4335
 )](mailto:yj2021@tongji.edu.cn)
-[![18860966069@163.com](https://img.shields.io/badge/Email%20%40outlook-white?logo=gmail&logoColor=%23EA4335
+[![18860966069@163.com](https://img.shields.io/badge/Email%20%40163-white?logo=gmail
 )](mailto:yj2yx@outlook.com) [![github](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=%23181717
 )](https://github.com/yanjie99) [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid&logoColor=%23A6CE39
 )](https://orcid.org/0009-0002-3627-1104)
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
 )](https://www.youtube.com/@YanjieZhang-2024)
 
-### Technical Skills: Python, MATLAB, SQL, RoadRunner
+## Background
+I am currently in the third year year at [Tongji University](https://en.tongji.edu.cn/p/#/), pursuing a Master of Science in Urban Mobility within the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm).`[Sep,2021-Sep,2024]`
+
+Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my Bachelor's degree of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis.`[Sep,2017-Jul,2021]`
+
+At TJU, the Urban Mobility Institute is an interdisciplinary institute. With my background in Transportation, and under the guidance of several professors from the [College of Surveying and Geo-informatics](https://celiang.tongji.edu.cn/english/Home.htm) at Tongji University and the [School of Resource and Environmental Sciences](https://sres.whu.edu.cn/English/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), I was responsible for tackling and completing key research components of a critical R&D project. This experience led me to shift my focus to the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction.
+
+## Research Interest
+My research enthusiasm lies in applying AI to grounded tasks. My primary goal is to develop methods for efficiently extracting key information from crowdsourced big data to serve urban science. To achieve this goal, I identified three main challenges:
+
+#### Challenge 1 Multi-element Extraction
+How can valuable information be effectively extracted from crowdsourced SVI to enhance the detection and classification of road features for autonomous vehicles.
+
+#### Challenge 2 Multi-element Integration
+What machine learning models and data fusion techniques can be developed to integrate diverse data sources, such as SVI and vehicle sensor data, for real-time updates.
+
+#### Challenge 3 Multi-element Management
+How can the proposed methods for accuracy, reliability, and scalability in various driving environments.
 
 
-## Summary
 
-### Research Interests
-High Definition Map, Autonomous Driving, Human Mobility, Smart City
-
-### Highlight
-Cross-disciplinary background (Transportation Engineering, Geo-Informatics)
-
-### Relevant Courses
-Advanced Mathematics, Linear Algebra, Intelligent Transportation System, Travel Behavior Analysis, Transportation Planning and Design, C Language programming, Data Mining
-
-
-## Education								       		
-- M.S., Urban Mobility (Interdisciplinary), Tongji University, Shanghai, China.(_2021-2024_)	 			        		
-- B.S., Transportation Engineering, Nanjing Agricultural University, Nanjing, China.(_2017-2021_)
-
+## News
+`[Sep 20, 2024]` Graduated from **Tongji University** and received the M.Sc. in Transportation Engineering.								       		
 
 
 ## Projects
-### HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-present_)
+### HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-Aug 2024_)
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
