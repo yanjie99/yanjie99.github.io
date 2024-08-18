@@ -38,7 +38,7 @@ How can the proposed methods for accuracy, reliability, and scalability in vario
 
 
 ## 🔬 Projects
-### HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-Aug 2024_)
+### 1. HD Maps Dynamic and Long-term Updating Methods and Interaction Mechanism@[TJU](https://umi.tongji.edu.cn/en/Homepage.htm)(_Nov 2021-Aug 2024_)
 
  The National Key R&D Program of China Leading by [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/)
 
@@ -49,7 +49,7 @@ Currently, our newest research is coming. [![**Click to view the latest process!
 
 
 
-### Solving Vehicle Routing Problems Using Deep Reinforcement Learning@[NJAU](https://english.njau.edu.cn/)(_Sep 2020-May 2021_)
+### 2. Solving Vehicle Routing Problems Using Deep Reinforcement Learning@[NJAU](https://english.njau.edu.cn/)(_Sep 2020-May 2021_)
 
 Undergraduate Thesis Research Plan Advised by [Assoc. Prof. Yang Liu](https://ai.njau.edu.cn/info/1062/1179.htm)
 
