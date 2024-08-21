@@ -1,4 +1,0 @@
-{
-    "device_id": "664f337d6bc31504f06b9ad1_stm32",
-    "secret": "892eb839b4e31e678f5a36378315ed49"
-}
