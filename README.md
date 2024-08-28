@@ -12,6 +12,8 @@
 [![youtube](https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=%23FF0000
 )](https://www.youtube.com/@YanjieZhang-2024)
 
+#### _Here is my_ [New Personal Website]((https://metayj.github.io/)). _This website has been suspended on August 18, 2024._
+
 ## 👨‍🎓 Background
 I am currently in the third year year at [Tongji University](https://en.tongji.edu.cn/p/#/), pursuing a Master of Science in Urban Mobility within the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm). [*Sep,2021-Sep,2024*]
 
